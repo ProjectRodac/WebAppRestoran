@@ -1,6 +1,15 @@
 # WebAppRestoran
 
 Online restoran:
-registracija, prijava
-dodavanje pića, prostorijia
+
+registracija
+
+prijava
+
+dodavanje pića
+
+dodavanje prostorijia
+
+naručivanje
+
 statistika prodaje
